@@ -8,3 +8,6 @@
 [https://smith-pad.github.io/Website]
 
 [https://codeberg.org/smith-pad]
+
+
+List of Repositories in Categories:
