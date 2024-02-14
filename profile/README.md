@@ -1,6 +1,6 @@
 # Smith-Pad
 
-<img src="./smith-pad-banner.png"></img>
+<img src="smith-pad-banner.png"></img>
 
 
 
