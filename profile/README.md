@@ -1,7 +1,6 @@
 # Smith-Pad
 
-
-
+<img src="./smith-pad-banner.png"></img>
 
 [https://github.com/smith-pad]
 
@@ -9,11 +8,4 @@
 
 [https://codeberg.org/smith-pad]
 
-
-# List of Repositories in Categories:
-
-## Operating System
-
-[Smith-Pad-OS](https://codeberg.org/smith-pad/smith-pad-os)
-
-[packages](https://codeberg.org/smith-pad/packages)
+# 
