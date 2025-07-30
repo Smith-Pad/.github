@@ -17,3 +17,18 @@ districts. 🌟
 
 
 ## Smith-Pad's Tactile Learning Visual Learning Standard (TLVL)
+
+Smith-Pad's TLVL standard based on WPHS (Winter Park High School) ESE Department
+that creates standards that follow tactile learning and visual learning features.
+
+
+### Tactile Engagement
+
+
+### Visual Engagement and Support
+
+
+### Individualized Engagement and Support
+
+
+### Multi-Sensory Engagement and Support
